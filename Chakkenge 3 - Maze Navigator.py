@@ -116,4 +116,3 @@ def maze_navigator():
 #         print(f"The shortest path in the maze is {result} steps.")
 #     else:
 #         print("No path found to the end of the maze, or an error occurred.")
-```
