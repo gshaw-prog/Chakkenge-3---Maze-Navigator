@@ -1,6 +1,3 @@
-Here is a Python solution for "Challenge 3: Maze Navigator", incorporating programming techniques detailed in the B2 Programming section of the sources, along with comments to explain each step:
-
-```python
 def maze_navigator():
     """
     Reads a maze from 'maze-navigator.txt', finds the shortest path from 'S' to 'E',
